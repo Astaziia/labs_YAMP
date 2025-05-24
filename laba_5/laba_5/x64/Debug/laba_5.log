@@ -1,0 +1,5 @@
+﻿  laba_5.cpp
+C:\Users\anast\OneDrive\Рабочий стол\labs\laba_5\laba_5.cpp(29,5): error C2084: функция "int main(void)" уже имеет текст реализации
+      C:\Users\anast\OneDrive\Рабочий стол\labs\laba_5\laba_5.cpp(11,5):
+      см. предыдущее определение "main"
+  
