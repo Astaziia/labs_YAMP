@@ -1,0 +1,8 @@
+Plant: Lavender (25.2.2023), Age: 2 years
+Tree: Oak (30.10.2000), Age: 25 years, Height: 25 meters
+Plant: Lavender (25.2.2023), Age: 2 years
+Tree: Oak (30.10.2000), Age: 25 years, Height: 25 meters
+Plant: Lavender (25.2.2023), Age: 2 years
+Tree: Oak (30.10.2000), Age: 25 years, Height: 25 meters
+Plant: Lavender (25.2.2023), Age: 2 years
+Tree: Oak (30.10.2000), Age: 25 years, Height: 25 meters

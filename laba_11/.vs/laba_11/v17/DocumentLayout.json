@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\",
+  "WorkspaceRootPath": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|solutionrelative:laba_11_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|solutionrelative:laba_11_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|solutionrelative:laba_11_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|solutionrelative:laba_11_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92763E0A-C05B-4CB5-8A7A-34723C7A91C7}|laba_11.vcxproj|solutionrelative:laba_11_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +38,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "laba_11_4.cpp",
-              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_4.cpp",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_4.cpp",
               "RelativeDocumentMoniker": "laba_11_4.cpp",
-              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_4.cpp",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_4.cpp",
               "RelativeToolTip": "laba_11_4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -51,11 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "laba_11_3.cpp",
-              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_3.cpp",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_3.cpp",
               "RelativeDocumentMoniker": "laba_11_3.cpp",
-              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_3.cpp",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_3.cpp",
               "RelativeToolTip": "laba_11_3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -64,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "laba_11_2.cpp",
-              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_2.cpp",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_2.cpp",
               "RelativeDocumentMoniker": "laba_11_2.cpp",
-              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_2.cpp",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_2.cpp",
               "RelativeToolTip": "laba_11_2.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -77,11 +77,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "laba_11_1.cpp",
-              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_1.cpp",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_1.cpp",
               "RelativeDocumentMoniker": "laba_11_1.cpp",
-              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs\\laba_11\\laba_11_1.cpp",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\labs_YAMP\\laba_11\\laba_11_1.cpp",
               "RelativeToolTip": "laba_11_1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
